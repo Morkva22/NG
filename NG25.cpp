@@ -183,6 +183,7 @@ int wishesTH()
             cout << "Invalid choice" << endl;
         }
     }
+
 int main()
 {
     menu();
